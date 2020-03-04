@@ -1,4 +1,5 @@
 terraform {
+   # MODIFY this line to look for 2.27.0 or greater
   required_version = ">= 0.2.27"
 }
 
